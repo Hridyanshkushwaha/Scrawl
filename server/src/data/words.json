@@ -1,0 +1,34 @@
+{
+  "animals": [
+    "cat", "dog", "elephant", "giraffe", "penguin", "dolphin", "octopus", "kangaroo", "butterfly", "spider",
+    "crocodile", "owl", "snail", "turtle", "shark", "rabbit", "monkey", "horse", "pig", "lion",
+    "tiger", "bear", "frog", "snake", "bee", "whale", "camel", "flamingo", "hedgehog", "squirrel",
+    "parrot", "jellyfish", "crab", "zebra", "peacock", "bat", "duck", "chicken", "cow", "sheep"
+  ],
+  "objects": [
+    "umbrella", "scissors", "key", "clock", "glasses", "backpack", "candle", "lamp", "bicycle", "guitar",
+    "camera", "telephone", "pencil", "book", "chair", "table", "mirror", "ladder", "hammer", "anchor",
+    "balloon", "crown", "envelope", "flashlight", "headphones", "magnet", "microscope", "suitcase", "toothbrush", "trophy",
+    "wallet", "watch", "bucket", "broom", "kite", "compass", "lantern", "piano", "drum", "violin"
+  ],
+  "food": [
+    "pizza", "hamburger", "ice cream", "banana", "watermelon", "pineapple", "cupcake", "sandwich", "spaghetti", "popcorn",
+    "pancake", "cookie", "carrot", "broccoli", "mushroom", "strawberry", "donut", "taco", "sushi", "cheese",
+    "egg", "bread", "lollipop", "pretzel", "coconut", "avocado", "cherry", "corn", "grapes", "hot dog"
+  ],
+  "actions": [
+    "swimming", "sleeping", "dancing", "running", "jumping", "climbing", "fishing", "laughing", "crying", "singing",
+    "painting", "reading", "cooking", "skiing", "surfing", "juggling", "hiking", "sneezing", "yawning", "whistling",
+    "cycling", "skating", "digging", "waving", "hugging", "kicking", "throwing", "knitting", "camping", "racing"
+  ],
+  "places": [
+    "castle", "lighthouse", "volcano", "island", "pyramid", "bridge", "igloo", "windmill", "waterfall", "desert",
+    "jungle", "mountain", "rainbow", "tornado", "cave", "farm", "airport", "hospital", "library", "circus",
+    "school", "stadium", "treehouse", "campfire", "beach", "river", "forest", "city", "museum", "tent"
+  ],
+  "things": [
+    "rocket", "robot", "dragon", "ghost", "pirate", "wizard", "mermaid", "vampire", "snowman", "astronaut",
+    "ninja", "unicorn", "alien", "skeleton", "scarecrow", "submarine", "helicopter", "tractor", "train", "sailboat",
+    "airplane", "ambulance", "fire truck", "bulldozer", "spaceship", "parachute", "treasure chest", "magic wand", "crystal ball", "telescope"
+  ]
+}

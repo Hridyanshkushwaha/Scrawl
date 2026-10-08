@@ -1,0 +1,18 @@
+{
+  "name": "scrawl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrawl: a multiplayer drawing and guessing game (skribbl.io clone)",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build && npm --prefix server run build",
+    "start": "npm --prefix server run start",
+    "typecheck": "npm --prefix server run typecheck && npm --prefix client run typecheck",
+    "test:smoke": "npm --prefix server run test:smoke"
+  }
+}
