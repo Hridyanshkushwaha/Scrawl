@@ -2,7 +2,7 @@
 
 A real-time multiplayer drawing and guessing game. One player draws a secret word, everyone else races to guess it. React + TypeScript + Vite on the front, Node + Express + Socket.IO on the back, with the server holding all game state.
 
-**Live URL:** `https://YOUR-APP.onrender.com` (placeholder: replace with your URL after deploying, see [Deployment](#deployment))
+**Live URL:** `https://scrawl-nea9.onrender.com` (placeholder: replace with your URL after deploying, see [Deployment](#deployment))
 
 ---
 
