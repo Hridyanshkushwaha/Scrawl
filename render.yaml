@@ -1,13 +1,8 @@
-# Render Blueprint: one web service serves the API, the WebSocket server and the built React client.
-# Render supports WebSockets out of the box, so no extra configuration is needed.
 services:
   - type: web
     name: scrawl
-    runtime: node
+    env: node
     plan: free
-    buildCommand: npm run install:all && npm run build
-    startCommand: npm start
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
     healthCheckPath: /health
-    envVars:
-      - key: NODE_VERSION
-        value: 22
